@@ -16,7 +16,7 @@
   
 
 ## Powershell Projects
-** [Limited Space Checker](https://github.com/JonathanGribe/Powershell-Projects/blob/main/limitedspacechecker.md)**
+- **[Limited Space Checker](https://github.com/JonathanGribe/Powershell-Projects/blob/main/limitedspacechecker.md)**
 <hr/>
 
 ## Technical Documentation
