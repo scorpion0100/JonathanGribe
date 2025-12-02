@@ -8,19 +8,18 @@
 - **[Vulnerability Management Program Implementation](https://github.com/JonathanGribe/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
-## 🚨 Threat Hunting and Security Operation
+## 🚨 Threat Hunting and Security Operations Projects
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 - **[Threat Hunting Scenario (PII Exfiltration)](https://github.com/JonathanGribe/ThreatHuntingScenario_PIIExfiltration)**
 - **[Threat Hunting Scenario - "The Notepad Updater"](https://github.com/JonathanGribe/ThreatHuntingScenario_HostRecon)**
   
 
-## Powershell Projects
-** [Limited Space Checker](https://github.com/JonathanGribe/Powershell-Projects/blob/main/limitedspacechecker.md)**
-<hr/>
-
 ## Technical Documentation
 **Webserver with Windows Datacenter 2022**
+**How to create a static webpage with Azure**
+**QuickStart Guide to Prompt Engineering**
+
 
 ## 🤳 Connect With Me
 
